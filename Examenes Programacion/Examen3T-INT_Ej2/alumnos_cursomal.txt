@@ -1,0 +1,16 @@
+NOMBRE,FECHA DE NACIMIENTO,CURSO
+Juan Fernández García,14/01/1985,1ESO
+Elena Marín Hernández,24/06/1984,2ESO
+Pedro Jiménez Vázquez,07/11/1985,1ESO
+Hugo Caballero Reyes,21/10/1983,5ESO
+Javier Castro Vidal,13/06/1985,1ESO
+Josué Garrido Giménez,06/01/1984,2ESO
+Clara Delgado Ramírez,03/12/1982,4ESO
+Román Castillo Santos,02/09/1982,3ESO
+Alfredo Cano Castillo,19/01/1985,1BACH
+Tatiana Fuentes García,15/04/1983,2ESO
+Maximiliano Lozano Sánchez,03/08/1982,4ESO
+Roberto Sáez Carmona,30/09/1982,4ESO
+Ariana Gutiérrez Martínez,09/08/1982,3ESO
+Elsa Crespo Medina,19/07/1983,2ESO
+Fátima Hernández Sánchez,28/08/1985,1ESO
